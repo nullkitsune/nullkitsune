@@ -22,7 +22,7 @@
     <img align="left" width="100" src="./Images/mahiro.png" />
 </a>
 
-**Please Contact me on Telegram for a quick response:** [Nahid](https://t.me/nullkitsune)
+**Please Contact me on Telegram for a quick response:** [Nahid](https://t.me/null_kitsune)
 
 **You can also email me here:** 
 
@@ -30,7 +30,7 @@
 #include <stdio.h>
 
 void email() {
-  puts("nullkitsune@gmail.com");
+  puts("nullxkitsune@gmail.com");
 }
 
 int main () {
