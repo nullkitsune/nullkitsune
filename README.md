@@ -43,6 +43,5 @@ int main () {
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nullkitsune&theme=calm&animation=sequence&duration=1&name=Nahid" /></td>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nullkitsune&theme=calm&animation=sequence&duration=1&utcOffset=0" /></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nullkitsune&theme=calm&animation=sequence&duration=1&exclude=html%2C+css%2C+javascript%2C+C%2C+C%2B%2B%2C+Python%2C+Rust" /></td>
   </tr>
 </table>
