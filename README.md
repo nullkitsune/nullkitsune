@@ -30,6 +30,9 @@ Cybersecurity Professional | Web Application Security & Penetration Testing
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=nullkitsune&data=followers,repositories,stars,commits&theme=aether" width="100%"/>
+</p>
 
 ## About Me
 
