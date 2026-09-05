@@ -33,4 +33,4 @@ Cybersecurity Professional | Web Application Security & Penetration Testing
 
 ## About Me
 
-- Self-taught cybersecurity professional based in Bangladesh, specializing in web application security,
+- Self-taught developer & cybersecurity professional based in Bangladesh, specializing in web application security, developing and Reverse engineering.
