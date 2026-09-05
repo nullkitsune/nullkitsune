@@ -1,39 +1,36 @@
-### **Hi I am**
+<!-- Banner -->
 <p align="center">
   <img src="./Images/dev-stack-banner.svg" width="100%"/>
 </p>
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=nullkitsune&data=followers,repositories,stars,commits&theme=aether" width="100%"/>
-</p>
-## **☕ About me**
-<a href="https://nullkitsune.github.io">
-    <img align="left" width="100" src="./Images/mahiro_switch.png">
-</a>
-<p>I'm Nahid, a passionate student who currently focused on Cybersecurity stuff. Other than that, I also interested in Web Development and Open Source stuff. I love to learn new things and always open to new opportunities.<br>My hobbies are playing games (random), watching anime & movies/series, and sometimes tinkering with random stuff like coding & reverse engineering (I love doing this a lot).</p>
 
-## **🛠️ Developer Stack**
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=ff2b2b&size=26&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nahid;Cybersecurity+Professional;Web+App+Pentester+%26+Reverse+Engineer" alt="Typing Intro" />
 </p>
 
-## **🧋 Cutie Counter**
+<h1 align="center">Nahidul Islam (nullkitsune)</h1>
+
+<h3 align="center">
+Cybersecurity Professional | Web Application Security & Penetration Testing
+</h3>
+
+---
+
+## Connect With Me
+
 <p align="center">
-	<img src="https://count.getloli.com/get/@nullkitsune?theme=original-new" alt="nullkitsune's cutie counter"/>
-	<br><br>
-	<code>People who visit my profile :3</code>
+<a href="https://nullkitsune.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/nullkitsune" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://t.me/null_kitsune" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="mailto:nullxkitsune@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-## GitHub Stats ✨
-<table>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nullkitsune&theme=calm&animation=sequence&duration=1&name=Nahid" /></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nullkitsune&theme=calm&animation=sequence&duration=1&utcOffset=0" /></td>
-  </tr>
-</table>
+
+<p align="center">
+  <b>Open to freelance security engagements — VAPT, WordPress security, and malware removal. Reach out via Telegram for a quick response.</b>
+</p>
+
+---
+
+## About Me
+
+- Self-taught cybersecurity professional based in Bangladesh, specializing in web application security,
